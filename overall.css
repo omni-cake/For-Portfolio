@@ -7,6 +7,10 @@
     height: 50px;
 }
 
+.name-container {
+    margin-right: 500px;
+}
+
 .navbar-name {
     border-radius: 20px;
     margin: 15px;
@@ -36,6 +40,10 @@
     text-align: center;
 }
 
+.contact {
+    size: auto;
+}
+
 .name {
     font-size: 75px;
     font-weight: 800;
@@ -49,6 +57,10 @@
 
 .school {
     font-family:Times;
+}
+
+.content {
+    height: 800px;
 }
 
 /*Footer*/
