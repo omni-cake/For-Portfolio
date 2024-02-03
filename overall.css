@@ -1,0 +1,66 @@
+/*Buong Katawan (body)*/
+
+
+/*Navbar part*/
+.navbar {
+    background-color:rgb(116, 47, 169);
+    height: 50px;
+}
+
+.navbar-name {
+    border-radius: 20px;
+    margin: 15px;
+    color: rgb(70, 166, 245);
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+    margin: 15px;
+    color: rgb(70, 166, 245);
+}
+
+.navbar-nav .nav-link{
+    margin: 15px;
+    color: rgb(70, 166, 245);
+}
+
+/*body part*/
+.white-space {
+    margin-bottom: 100px;
+}
+.card {
+    border-radius: 0%;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.2);
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+
+.name {
+    font-size: 75px;
+    font-weight: 800;
+    font-family: fantasy;
+}
+
+.description {
+    font-size: large;
+    font-family: Times;
+}
+
+.school {
+    font-family:Times;
+}
+
+/*Footer*/
+footer {
+    background-color:rgb(116, 47, 169);
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+.footer-text {
+    text-align: center;
+    color: navy;
+    
+}
+  
